@@ -38,7 +38,7 @@ This project was built as a **portfolio-ready analysis** and showcases how Pytho
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/app-market-analysis.git
+   [https://github.com/your-username/Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets.git]
    ```  
 2. Open the Jupyter Notebook:  
    ```bash
@@ -54,7 +54,7 @@ This project was built as a **portfolio-ready analysis** and showcases how Pytho
 - Identified app categories with the highest user potential.  
 - Clearer understanding of the mobile market landscape for ad-based apps.  
 
-## Future Work
+## Potential future Work
 
 - Deeper visualization with `matplotlib` or `seaborn`.  
 - Apply statistical tests to validate category popularity.  
@@ -62,4 +62,4 @@ This project was built as a **portfolio-ready analysis** and showcases how Pytho
 
 ## License
 
-This project is for educational purposes and part of a guided portfolio project.  
+This project is for educational purposes.  
