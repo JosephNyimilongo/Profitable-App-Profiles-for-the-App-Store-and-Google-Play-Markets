@@ -38,7 +38,7 @@ This project was built as a **portfolio-ready analysis** and showcases how Pytho
 
 1. Clone this repository:  
    ```bash
-   [https://github.com/your-username/Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets.git]
+   https://github.com/your-username/Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets.git
    ```  
 2. Open the Jupyter Notebook:  
    ```bash
