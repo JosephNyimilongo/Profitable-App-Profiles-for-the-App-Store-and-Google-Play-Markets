@@ -17,7 +17,6 @@ This project was built as a **portfolio-ready analysis** and showcases how Pytho
 - **Jupyter Notebook**  
 - Libraries:  
   - `csv` (data loading)  
-  - `matplotlib` (visualization, optional)  
   - built-in Python tools (lists, loops, conditionals, dictionaries, functions)  
 
 ## Key Steps
